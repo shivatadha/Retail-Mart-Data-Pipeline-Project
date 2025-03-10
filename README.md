@@ -4,7 +4,9 @@
 
 Welcome to the **Retail Mart Data Pipeline** project! This project is designed to efficiently process, transform, and analyze retail data using a robust ETL (Extract, Transform, Load) pipeline. By leveraging Apache Spark for big data processing, AWS S3 for cloud storage, and MySQL for structured data management, this solution ensures data integrity, scalability, and high performance. Whether you're a data engineer, analyst, or simply curious about data pipelines, this project provides an end-to-end solution for retail analytics.
 
----
+
+
+
 
 ## Workflow of the Project 📊
 
@@ -12,6 +14,9 @@ The Retail Mart Data Pipeline handles the complete lifecycle of retail data. Her
 
 ![Retail Mart Data Pipeline Architecture](https://github.com/shivatadha/Retail-Mart-Data-Pipeline-Project/blob/9913ce2fd505fa96fe0dbfbb4a7245e9b86cdcdb/Retail%20Mart%20Data%20Pipeline%20Project.png)
 
+
+
+---
 
 1. **Setup S3 Client** 🚀  
    - **Initialize S3 Client:** Configures an S3 client using AWS credentials to list, download, and manage files within AWS S3 buckets.
