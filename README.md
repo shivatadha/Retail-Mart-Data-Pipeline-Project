@@ -12,7 +12,7 @@ Welcome to the **Retail Mart Data Pipeline** project! This project is designed t
 
 The Retail Mart Data Pipeline handles the complete lifecycle of retail data. Here’s a detailed breakdown of its workflow:
 
-![Retail Mart Data Pipeline Architecture](https://github.com/shivatadha/Retail-Mart-Data-Pipeline-Project/blob/9913ce2fd505fa96fe0dbfbb4a7245e9b86cdcdb/Retail%20Mart%20Data%20Pipeline%20Project.png)
+![Retail Mart Data Pipeline Architecture](https://github.com/shivatadha/Retail-Mart-Data-Pipeline-Project/blob/77b21195bdb68554682f651ace45a1af32df0472/Retail%20Mart%20pipline.png)
 
 
 
