@@ -148,9 +148,9 @@ my_project/
 │   │       ├── database_write.py
 │   │       └── parquet_write.py
 │   ├── test/
-│   │   ├── generate_csv_data.py
-│   │   ├── sales_data_upload_s3.py
-│   │   └── test.py
+        ├── generate_csv_data.py
+        ├── sales_data_upload_s3.py
+        └── test.py
 ```
 
 ---
