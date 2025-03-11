@@ -175,7 +175,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/retail-mart-data-pipeline.git
+   https://github.com/shivatadha/Retail-Mart-Data-Pipeline-Project.git
    cd retail-mart-data-pipeline
    ```
 
