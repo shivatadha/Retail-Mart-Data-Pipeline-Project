@@ -103,6 +103,12 @@ The Retail Mart Data Pipeline handles the complete lifecycle of retail data. Her
    - **Database Connector:** Sets up and manages MySQL connection pools for efficient staging and final data storage.  
    - **Logging Configurator:** Implements logging configurations for monitoring, debugging, and performance tracking.
 
+
+---
+## Database ER Diagram:
+  
+   ![Database ER Diagram](https://github.com/shivatadha/Retail-Mart-Data-Pipeline-Project/blob/0bb3da917ee5a962c7f2f5a06b15ba42b0bc0040/database_schema.png)
+
 ---
 
 ## Project Structure 📂
